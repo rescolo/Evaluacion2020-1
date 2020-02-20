@@ -6,5 +6,5 @@ https://github.com/restrepo/ComputationalMethods
 # Submodule help
 To update the changes from the main repository:
 ```bash
-git submodule update --remote DbConnector
+git submodule update --remote ThisRepo
 ```
